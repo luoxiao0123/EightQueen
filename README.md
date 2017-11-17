@@ -1,3 +1,2 @@
 # EightQueen
-	testing github
-	testing again
+	backtracking to solve the Eight Queens problem
